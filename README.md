@@ -12,7 +12,8 @@ The Spring MVC CRUD Hospital Project is designed to facilitate the management of
 
 - **Login:** Users can sign in to access the CRUD functionalities.
 
-- <img width="1440" alt="Screen Shot 2023-11-10 at 13 54 31" src="https://github.com/Omarab2022/Spring-MVC-Crud/assets/99898445/e27003a8-cac6-43ad-813f-3cd3780789fe">
+- <img width="765" alt="Screen Shot 2023-11-10 at 14 01 20" src="https://github.com/Omarab2022/Spring-MVC-Crud/assets/99898445/0a5b0e2a-c727-46ef-a902-d91441be31de">
+
 
 
 - **Add Patient:** Add new patient records with relevant information.
