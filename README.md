@@ -12,13 +12,13 @@ The Spring MVC CRUD Hospital Project is designed to facilitate the management of
 
 - **Login:** Users can sign in to access the CRUD functionalities.
 
-- <img width="765" alt="Screen Shot 2023-11-10 at 14 01 20" src="https://github.com/Omarab2022/Spring-MVC-Crud/assets/99898445/0a5b0e2a-c727-46ef-a902-d91441be31de">
+  <img width="765" alt="Screen Shot 2023-11-10 at 14 01 20" src="https://github.com/Omarab2022/Spring-MVC-Crud/assets/99898445/0a5b0e2a-c727-46ef-a902-d91441be31de">
 
 
 
 - **Add Patient:** Add new patient records with relevant information.
 
-- <img width="827" alt="Screen Shot 2023-11-10 at 13 55 14" src="https://github.com/Omarab2022/Spring-MVC-Crud/assets/99898445/065e8c98-9770-464e-9688-ca069f5e9c63">
+ <img width="827" alt="Screen Shot 2023-11-10 at 13 55 14" src="https://github.com/Omarab2022/Spring-MVC-Crud/assets/99898445/065e8c98-9770-464e-9688-ca069f5e9c63">
 
 
 - **Delete Patient:** Remove patient records from the system.
@@ -27,7 +27,7 @@ The Spring MVC CRUD Hospital Project is designed to facilitate the management of
 
 - **Search Patient:** Search for specific patients based on various criteria.
 
-- <img width="1440" alt="Screen Shot 2023-11-10 at 13 54 40" src="https://github.com/Omarab2022/Spring-MVC-Crud/assets/99898445/e6705786-f41a-4364-8169-f31c2a7db3ba">
+ <img width="1440" alt="Screen Shot 2023-11-10 at 13 54 40" src="https://github.com/Omarab2022/Spring-MVC-Crud/assets/99898445/e6705786-f41a-4364-8169-f31c2a7db3ba">
 
 
 ## Technologies Used
